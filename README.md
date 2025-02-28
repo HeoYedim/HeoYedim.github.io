@@ -1,8 +1,7 @@
-# React + Vite
+# 허예림 포트폴리오
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이 포트폴리오는 React + Vite로 개발하였습니다.
 
-Currently, two official plugins are available:
+설명 : 개인 포트폴리오 웹 사이트입니다. 간단한 정보와 기술 스택, 프로젝트 등을 정리했습니다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+배포 링크 : https://heoyedim.github.io/
