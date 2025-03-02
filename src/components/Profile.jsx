@@ -86,7 +86,6 @@ const Profile = () => {
             <li>기본적인 컴퓨터 이론</li>
             <li>자료구조 및 알고리즘</li>
             <li>웹 및 AI를 이용한 iOS/Android 앱 개발</li>
-            <li>인공지능 이론 및 응용</li>
           </ul>
           <p>
             <strong>관심 기술 :</strong> UI/UX

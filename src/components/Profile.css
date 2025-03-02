@@ -1,5 +1,5 @@
 .Profile {
-  width: 100vw;
+  width: 100%;
   /* height: 100vh; */
   background-color: #f8f1e5;
   display: flex;
@@ -7,8 +7,7 @@
   opacity: 0;
   animation: fadeIn 1s forwards 0.1s;
   padding: 20px;
-  max-width: 1200px;
-  min-width: 1050px;
+  max-width: 100vw;
 }
 
 /* 서서히 나타나는 애니메이션 */
