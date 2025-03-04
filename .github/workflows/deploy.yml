@@ -9,6 +9,10 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read # ✅ 추가 (Actions 읽기 권한)
+  checks: write # ✅ 추가 (체크 실행 권한)
+  deployments: write # ✅ 추가 (배포 권한)
+  statuses: write # ✅ 추가 (상태 업데이트 권한)
 
 jobs:
   build:
